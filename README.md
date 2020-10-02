@@ -6,4 +6,7 @@ Financial institutions incur significant losses due to the default of vehicle lo
 <li>Loan Information (Disbursal details, amount, EMI, loan to value ratio etc.)
 <li>Bureau data & history (Bureau score, number of active accounts, the status of other loans, credit history etc.)
 </ul>
+<br>
 Doing so will ensure that clients capable of repayment are not rejected and important determinants can be identified which can be further used for minimising the default rates.
+<h3>Aim</h3>
+Our aim should be the minimize the "false negatives" i.e the people that are predicted to not default the loan, but do default it. 
